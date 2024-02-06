@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing GitHub Flow
+Hello! My name is Diego Nobrega, I'm from Brazil. I have a bachelor in Business Administration that was done in Brazil. I just graduated from PCC this last semester, I earned my AAS in Accounting. I'm starting the Programmer Analyst program because I love technologies and I think I can combine my previous background to the programming world.
